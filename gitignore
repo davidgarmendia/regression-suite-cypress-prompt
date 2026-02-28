@@ -1,0 +1,14 @@
+# Dependency directories
+/node_modules/
+
+# Cypress specific
+cypress/screenshots/
+cypress/videos/
+cypress/downloads/
+
+# Environment secrets (Crucial for AI/Prompt tools)
+.env
+cypress.env.json
+
+# OS files
+.DS_Store
