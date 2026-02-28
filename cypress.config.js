@@ -6,6 +6,6 @@ module.exports = defineConfig({
     setupNodeEvents(on, config) {
       // implement node event listeners here
     },
-    baseUrl: 'http://localhost:3000', // Update to your target site
+    baseUrl: 'https://www.saucedemo.com/', // Update to your target site
   },
 });
